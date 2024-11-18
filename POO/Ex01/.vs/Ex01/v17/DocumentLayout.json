@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\Curso DEV\\POO e Solid\\Ex01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CFEE3A9-0FFC-43AF-A9BC-A01D6EBF4283}|Ex01\\Ex01.csproj|c:\\projetos\\curso dev\\poo e solid\\ex01\\ex01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CFEE3A9-0FFC-43AF-A9BC-A01D6EBF4283}|Ex01\\Ex01.csproj|solutionrelative:ex01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CFEE3A9-0FFC-43AF-A9BC-A01D6EBF4283}|Ex01\\Ex01.csproj|c:\\projetos\\curso dev\\poo e solid\\ex01\\ex01\\ex01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6CFEE3A9-0FFC-43AF-A9BC-A01D6EBF4283}|Ex01\\Ex01.csproj|solutionrelative:ex01\\ex01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{835FD968-91E2-4EDA-946E-9E7AF24E564B}|Ex02\\Ex02.csproj|c:\\projetos\\curso dev\\poo e solid\\ex01\\ex02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{835FD968-91E2-4EDA-946E-9E7AF24E564B}|Ex02\\Ex02.csproj|solutionrelative:ex02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A002D6BC-A0D4-43A9-9F31-D0DA8DC6E869}|Ex03\\Ex03.csproj|c:\\projetos\\curso dev\\poo e solid\\ex01\\ex03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A002D6BC-A0D4-43A9-9F31-D0DA8DC6E869}|Ex03\\Ex03.csproj|solutionrelative:ex03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A002D6BC-A0D4-43A9-9F31-D0DA8DC6E869}|Ex03\\Ex03.csproj|c:\\projetos\\curso dev\\poo e solid\\ex01\\ex03\\ipagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A002D6BC-A0D4-43A9-9F31-D0DA8DC6E869}|Ex03\\Ex03.csproj|solutionrelative:ex03\\ipagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F3F99BA-F2E7-4C79-9B2A-B9DC26A041B2}|Ex04\\Ex04.csproj|c:\\projetos\\curso dev\\poo e solid\\ex01\\ex04\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F3F99BA-F2E7-4C79-9B2A-B9DC26A041B2}|Ex04\\Ex04.csproj|solutionrelative:ex04\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F3F99BA-F2E7-4C79-9B2A-B9DC26A041B2}|Ex04\\Ex04.csproj|c:\\projetos\\curso dev\\poo e solid\\ex01\\ex04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F3F99BA-F2E7-4C79-9B2A-B9DC26A041B2}|Ex04\\Ex04.csproj|solutionrelative:ex04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F3F99BA-F2E7-4C79-9B2A-B9DC26A041B2}|Ex04\\Ex04.csproj|c:\\projetos\\curso dev\\poo e solid\\ex01\\ex04\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F3F99BA-F2E7-4C79-9B2A-B9DC26A041B2}|Ex04\\Ex04.csproj|solutionrelative:ex04\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB20201C-2647-4CBD-8471-34DA70E3F359}|Ex05\\Ex05.csproj|c:\\projetos\\curso dev\\poo e solid\\ex01\\ex05\\caixa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB20201C-2647-4CBD-8471-34DA70E3F359}|Ex05\\Ex05.csproj|solutionrelative:ex05\\caixa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB20201C-2647-4CBD-8471-34DA70E3F359}|Ex05\\Ex05.csproj|c:\\projetos\\curso dev\\poo e solid\\ex01\\ex05\\pilha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB20201C-2647-4CBD-8471-34DA70E3F359}|Ex05\\Ex05.csproj|solutionrelative:ex05\\pilha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB20201C-2647-4CBD-8471-34DA70E3F359}|Ex05\\Ex05.csproj|c:\\projetos\\curso dev\\poo e solid\\ex01\\ex05\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB20201C-2647-4CBD-8471-34DA70E3F359}|Ex05\\Ex05.csproj|solutionrelative:ex05\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB20201C-2647-4CBD-8471-34DA70E3F359}|Ex05\\Ex05.csproj|c:\\projetos\\curso dev\\poo e solid\\ex01\\ex05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB20201C-2647-4CBD-8471-34DA70E3F359}|Ex05\\Ex05.csproj|solutionrelative:ex05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A002D6BC-A0D4-43A9-9F31-D0DA8DC6E869}|Ex03\\Ex03.csproj|c:\\projetos\\curso dev\\poo e solid\\ex01\\ex03\\pagamentocredito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A002D6BC-A0D4-43A9-9F31-D0DA8DC6E869}|Ex03\\Ex03.csproj|solutionrelative:ex03\\pagamentocredito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A002D6BC-A0D4-43A9-9F31-D0DA8DC6E869}|Ex03\\Ex03.csproj|c:\\projetos\\curso dev\\poo e solid\\ex01\\ex03\\pagamentodebito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A002D6BC-A0D4-43A9-9F31-D0DA8DC6E869}|Ex03\\Ex03.csproj|solutionrelative:ex03\\pagamentodebito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A002D6BC-A0D4-43A9-9F31-D0DA8DC6E869}|Ex03\\Ex03.csproj|c:\\projetos\\curso dev\\poo e solid\\ex01\\ex03\\pagamentodinheiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A002D6BC-A0D4-43A9-9F31-D0DA8DC6E869}|Ex03\\Ex03.csproj|solutionrelative:ex03\\pagamentodinheiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A002D6BC-A0D4-43A9-9F31-D0DA8DC6E869}|Ex03\\Ex03.csproj|c:\\projetos\\curso dev\\poo e solid\\ex01\\ex03\\pagamentopix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A002D6BC-A0D4-43A9-9F31-D0DA8DC6E869}|Ex03\\Ex03.csproj|solutionrelative:ex03\\pagamentopix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A002D6BC-A0D4-43A9-9F31-D0DA8DC6E869}|Ex03\\Ex03.csproj|c:\\projetos\\curso dev\\poo e solid\\ex01\\ex03\\processadorpagamentosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A002D6BC-A0D4-43A9-9F31-D0DA8DC6E869}|Ex03\\Ex03.csproj|solutionrelative:ex03\\processadorpagamentosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CFEE3A9-0FFC-43AF-A9BC-A01D6EBF4283}|Ex01\\Ex01.csproj|c:\\projetos\\curso dev\\poo e solid\\ex01\\ex01\\classes\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CFEE3A9-0FFC-43AF-A9BC-A01D6EBF4283}|Ex01\\Ex01.csproj|solutionrelative:ex01\\classes\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB20201C-2647-4CBD-8471-34DA70E3F359}|Ex05\\Ex05.csproj|c:\\projetos\\curso dev\\poo e solid\\ex01\\ex05\\ex05.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EB20201C-2647-4CBD-8471-34DA70E3F359}|Ex05\\Ex05.csproj|solutionrelative:ex05\\ex05.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CFEE3A9-0FFC-43AF-A9BC-A01D6EBF4283}|Ex01\\Ex01.csproj|c:\\projetos\\curso dev\\poo e solid\\ex01\\ex01\\classes\\eletronico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CFEE3A9-0FFC-43AF-A9BC-A01D6EBF4283}|Ex01\\Ex01.csproj|solutionrelative:ex01\\classes\\eletronico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Caixa.cs",
+              "DocumentMoniker": "C:\\Projetos\\Curso DEV\\POO e Solid\\Ex01\\Ex05\\Caixa.cs",
+              "RelativeDocumentMoniker": "Ex05\\Caixa.cs",
+              "ToolTip": "C:\\Projetos\\Curso DEV\\POO e Solid\\Ex01\\Ex05\\Caixa.cs",
+              "RelativeToolTip": "Ex05\\Caixa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:03:40.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\Curso DEV\\POO e Solid\\Ex01\\Ex05\\Program.cs",
+              "RelativeDocumentMoniker": "Ex05\\Program.cs",
+              "ToolTip": "C:\\Projetos\\Curso DEV\\POO e Solid\\Ex01\\Ex05\\Program.cs",
+              "RelativeToolTip": "Ex05\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:03:47.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Projetos\\Curso DEV\\POO e Solid\\Ex01\\Ex05\\Repository.cs",
+              "RelativeDocumentMoniker": "Ex05\\Repository.cs",
+              "ToolTip": "C:\\Projetos\\Curso DEV\\POO e Solid\\Ex01\\Ex05\\Repository.cs",
+              "RelativeToolTip": "Ex05\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:04:03.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Pilha.cs",
+              "DocumentMoniker": "C:\\Projetos\\Curso DEV\\POO e Solid\\Ex01\\Ex05\\Pilha.cs",
+              "RelativeDocumentMoniker": "Ex05\\Pilha.cs",
+              "ToolTip": "C:\\Projetos\\Curso DEV\\POO e Solid\\Ex01\\Ex05\\Pilha.cs",
+              "RelativeToolTip": "Ex05\\Pilha.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:03:43.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\Curso DEV\\POO e Solid\\Ex01\\Ex04\\Program.cs",
+              "RelativeDocumentMoniker": "Ex04\\Program.cs",
+              "ToolTip": "C:\\Projetos\\Curso DEV\\POO e Solid\\Ex01\\Ex04\\Program.cs",
+              "RelativeToolTip": "Ex04\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:17:33.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "C:\\Projetos\\Curso DEV\\POO e Solid\\Ex01\\Ex04\\Carro.cs",
+              "RelativeDocumentMoniker": "Ex04\\Carro.cs",
+              "ToolTip": "C:\\Projetos\\Curso DEV\\POO e Solid\\Ex01\\Ex04\\Carro.cs",
+              "RelativeToolTip": "Ex04\\Carro.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:17:26.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPagamento.cs",
+              "DocumentMoniker": "C:\\Projetos\\Curso DEV\\POO e Solid\\Ex01\\Ex03\\IPagamento.cs",
+              "RelativeDocumentMoniker": "Ex03\\IPagamento.cs",
+              "ToolTip": "C:\\Projetos\\Curso DEV\\POO e Solid\\Ex01\\Ex03\\IPagamento.cs",
+              "RelativeToolTip": "Ex03\\IPagamento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:09:54.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\Curso DEV\\POO e Solid\\Ex01\\Ex03\\Program.cs",
+              "RelativeDocumentMoniker": "Ex03\\Program.cs",
+              "ToolTip": "C:\\Projetos\\Curso DEV\\POO e Solid\\Ex01\\Ex03\\Program.cs",
+              "RelativeToolTip": "Ex03\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA6wAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:16:22.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\Curso DEV\\POO e Solid\\Ex01\\Ex02\\Program.cs",
+              "RelativeDocumentMoniker": "Ex02\\Program.cs",
+              "ToolTip": "C:\\Projetos\\Curso DEV\\POO e Solid\\Ex01\\Ex02\\Program.cs",
+              "RelativeToolTip": "Ex02\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAcwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:06:48.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ex01",
+              "DocumentMoniker": "C:\\Projetos\\Curso DEV\\POO e Solid\\Ex01\\Ex01\\Ex01.csproj",
+              "RelativeDocumentMoniker": "Ex01\\Ex01.csproj",
+              "ToolTip": "C:\\Projetos\\Curso DEV\\POO e Solid\\Ex01\\Ex01\\Ex01.csproj",
+              "RelativeToolTip": "Ex01\\Ex01.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-18T10:02:38.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\Curso DEV\\POO e Solid\\Ex01\\Ex01\\Program.cs",
+              "RelativeDocumentMoniker": "Ex01\\Program.cs",
+              "ToolTip": "C:\\Projetos\\Curso DEV\\POO e Solid\\Ex01\\Ex01\\Program.cs",
+              "RelativeToolTip": "Ex01\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwCYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:05:33.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "C:\\Projetos\\Curso DEV\\POO e Solid\\Ex01\\Ex04\\Veiculo.cs",
+              "RelativeDocumentMoniker": "Ex04\\Veiculo.cs",
+              "ToolTip": "C:\\Projetos\\Curso DEV\\POO e Solid\\Ex01\\Ex04\\Veiculo.cs",
+              "RelativeToolTip": "Ex04\\Veiculo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:02:42.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PagamentoCredito.cs",
+              "DocumentMoniker": "C:\\Projetos\\Curso DEV\\POO e Solid\\Ex01\\Ex03\\PagamentoCredito.cs",
+              "RelativeDocumentMoniker": "Ex03\\PagamentoCredito.cs",
+              "ToolTip": "C:\\Projetos\\Curso DEV\\POO e Solid\\Ex01\\Ex03\\PagamentoCredito.cs",
+              "RelativeToolTip": "Ex03\\PagamentoCredito.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAxwA0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:13:03.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PagamentoDebito.cs",
+              "DocumentMoniker": "C:\\Projetos\\Curso DEV\\POO e Solid\\Ex01\\Ex03\\PagamentoDebito.cs",
+              "RelativeDocumentMoniker": "Ex03\\PagamentoDebito.cs",
+              "ToolTip": "C:\\Projetos\\Curso DEV\\POO e Solid\\Ex01\\Ex03\\PagamentoDebito.cs",
+              "RelativeToolTip": "Ex03\\PagamentoDebito.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:14:29.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PagamentoDinheiro.cs",
+              "DocumentMoniker": "C:\\Projetos\\Curso DEV\\POO e Solid\\Ex01\\Ex03\\PagamentoDinheiro.cs",
+              "RelativeDocumentMoniker": "Ex03\\PagamentoDinheiro.cs",
+              "ToolTip": "C:\\Projetos\\Curso DEV\\POO e Solid\\Ex01\\Ex03\\PagamentoDinheiro.cs",
+              "RelativeToolTip": "Ex03\\PagamentoDinheiro.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:11:28.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PagamentoPix.cs",
+              "DocumentMoniker": "C:\\Projetos\\Curso DEV\\POO e Solid\\Ex01\\Ex03\\PagamentoPix.cs",
+              "RelativeDocumentMoniker": "Ex03\\PagamentoPix.cs",
+              "ToolTip": "C:\\Projetos\\Curso DEV\\POO e Solid\\Ex01\\Ex03\\PagamentoPix.cs",
+              "RelativeToolTip": "Ex03\\PagamentoPix.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:07:15.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProcessadorPagamentosService.cs",
+              "DocumentMoniker": "C:\\Projetos\\Curso DEV\\POO e Solid\\Ex01\\Ex03\\ProcessadorPagamentosService.cs",
+              "RelativeDocumentMoniker": "Ex03\\ProcessadorPagamentosService.cs",
+              "ToolTip": "C:\\Projetos\\Curso DEV\\POO e Solid\\Ex01\\Ex03\\ProcessadorPagamentosService.cs",
+              "RelativeToolTip": "Ex03\\ProcessadorPagamentosService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:10:50.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Ex05",
+              "DocumentMoniker": "C:\\Projetos\\Curso DEV\\POO e Solid\\Ex01\\Ex05\\Ex05.csproj",
+              "RelativeDocumentMoniker": "Ex05\\Ex05.csproj",
+              "ToolTip": "C:\\Projetos\\Curso DEV\\POO e Solid\\Ex01\\Ex05\\Ex05.csproj",
+              "RelativeToolTip": "Ex05\\Ex05.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-18T10:04:40.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Projetos\\Curso DEV\\POO e Solid\\Ex01\\Ex01\\Classes\\Produto.cs",
+              "RelativeDocumentMoniker": "Ex01\\Classes\\Produto.cs",
+              "ToolTip": "C:\\Projetos\\Curso DEV\\POO e Solid\\Ex01\\Ex01\\Classes\\Produto.cs",
+              "RelativeToolTip": "Ex01\\Classes\\Produto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:05:15.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Eletronico.cs",
+              "DocumentMoniker": "C:\\Projetos\\Curso DEV\\POO e Solid\\Ex01\\Ex01\\Classes\\Eletronico.cs",
+              "RelativeDocumentMoniker": "Ex01\\Classes\\Eletronico.cs",
+              "ToolTip": "C:\\Projetos\\Curso DEV\\POO e Solid\\Ex01\\Ex01\\Classes\\Eletronico.cs",
+              "RelativeToolTip": "Ex01\\Classes\\Eletronico.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:04:56.607Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
